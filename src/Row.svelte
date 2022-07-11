@@ -12,11 +12,11 @@
   <td>{row.id}</td>
   <td>{row.name}</td>
   <td>{row.surname}</td>
-  <td>
+  <!-- <td>
     <button on:click="{() => showModal = true}">
       Details
     </button>
-  </td>
+  </td> -->
 </tr>
 
 {#if showModal}
