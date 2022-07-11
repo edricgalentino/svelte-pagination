@@ -53,7 +53,7 @@
         <th>ID</th>
         <th>Name</th>
         <th>Surname</th>
-        <th>Actions</th>
+        <!-- <th>Actions</th> -->
       </tr>
     </thead>
     <tbody>
